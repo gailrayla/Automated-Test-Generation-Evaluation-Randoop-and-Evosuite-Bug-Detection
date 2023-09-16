@@ -39,7 +39,6 @@ To reproduce the experiments and tests conducted in this assignment, follow the 
 ## Additional Notes
 
 - All the necessary assignment materials and dependencies are self-contained within this repository.
-- For any questions or clarifications regarding the assignment, please contact Instructor Mijung Kim or refer to the course's Pizza platform or TA's Office Hours.
 
 This README file provides an overview of the project and instructions for reproducing the experiments. For a more detailed understanding, refer to the PDF report included in this repository.
 
